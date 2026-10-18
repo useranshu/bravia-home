@@ -1,0 +1,20 @@
+# Signing key and build tools (keep the keystore backed up privately!)
+tools/
+*.keystore
+*.jks
+
+# Build output
+Home.apk
+*.apk
+*.idsig
+home-app/build/
+home-app/android.jar
+
+# Personal TV data and history
+scan/
+changes-log.csv
+undo-all.sh
+undo-all.sh.bak
+*.bak
+
+.DS_Store

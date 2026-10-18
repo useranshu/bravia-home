@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Home</string>
+    <string name="service_name">Home button for Home</string>
+    <string name="service_desc">Opens your simple home screen when you press Home. Press Home twice quickly for Google TV.</string>
+</resources>
